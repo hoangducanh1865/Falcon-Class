@@ -1,0 +1,1 @@
+{"Sample MNIST Image":{"path":"media/images/Sample MNIST Image_95_c3d582fbc61f0dfe6fbe.png","format":"png","width":28,"height":28,"_type":"image-file","sha256":"c3d582fbc61f0dfe6fbeed8c0158d1eef0260e623eca45eec838f530d731fe88","size":546},"_wandb":{"runtime":19},"_runtime":19.496551125,"_step":95,"loss":0.08568146533798426,"_timestamp":1.741674883748189e+09,"accuracy":97.82}
